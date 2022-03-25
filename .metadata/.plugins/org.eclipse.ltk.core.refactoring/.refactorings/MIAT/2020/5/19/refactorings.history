@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MIAT/typdefs.h&apos; to &apos;typedefs.h&apos;" description="Rename resource &apos;typdefs.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="typdefs.h" name="typedefs.h" stamp="1589151770218" updateReferences="true"/>
+</session>

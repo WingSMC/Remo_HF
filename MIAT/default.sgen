@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::c {
+
+	statechart system {
+
+		feature Outlet {
+			targetProject = "MIAT"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}
